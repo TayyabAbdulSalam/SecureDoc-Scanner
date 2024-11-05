@@ -1,3 +1,4 @@
+![Frame 1618872984](https://github.com/user-attachments/assets/4eb877a4-1c86-446b-95d5-659098d7a369)
 SecureDoc_Scanner
 SecureDoc_Scanner is a powerful tool designed to help you analyze images and documents for malicious content. Whether you’re checking an image or a document, this tool thoroughly scans and gives you a detailed report on whether the content is clean or potentially harmful.
 
